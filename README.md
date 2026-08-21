@@ -41,7 +41,7 @@
 
 ## 🌱 开源
 
-- 有已合并 PR（GitHub **Pull Shark**）；以 **contributor** 身份参与开源，不宣称 maintainer / 核心作者。
+- 有已合并 PR（GitHub **Pull Shark**），以 **contributor** 身份持续参与开源贡献。
 
 ## 📮 联系
 
