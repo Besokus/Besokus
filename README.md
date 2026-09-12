@@ -20,17 +20,13 @@ Currently at **Binance**, working on AI application development.
 ### Focus
 
 C++ · Linux · Multithreading · Low-Latency Systems
-
 Backend Engineering · REST APIs · Databases
-
 LLM · RAG · Agents · AI Engineering
 
 ### Achievements
 
 VEX Robotics Asia Open Finals — **1st Place**
-
 VEX Robotics China Championship — **2nd Place**
-
 RoboCup China Open — **3rd Place**
 
 📫 [yp636402@outlook.com](mailto:yp636402@outlook.com)
