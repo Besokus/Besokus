@@ -8,7 +8,7 @@ Currently at **Binance**, working on AI application development.
 
 ### Experience
 
-**Binance** — AI Application Development
+**某web3公司** — AI Application Development
 *2026 – Present*
 
 **Shidai Gongying Private Equity Fund** — Quantitative Development
